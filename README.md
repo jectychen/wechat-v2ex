@@ -27,6 +27,3 @@
 
 ## 感谢  
 v2ex数据api基本上使用了samuel1112的仓库[v2er](https://github.com/samuel1112/v2er)里封装的方法，特此表示感谢
-
-
-
