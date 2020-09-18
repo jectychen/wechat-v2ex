@@ -7,11 +7,11 @@
     "pages/detail/detail"
   ],
   "window":{
-    "backgroundTextStyle":"light",
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "V2EX",
-    "navigationBarTextStyle":"black",
-    "enablePullDownRefresh":"true"
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "color":"#000",
